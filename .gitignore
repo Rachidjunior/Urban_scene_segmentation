@@ -1,0 +1,42 @@
+#Data Files (too large for Github)
+
+*.pth
+*.pkl
+*.h5
+data/raw/
+data/processed/
+checkpoints/
+
+#Python
+
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+dist/
+build/
+
+#Environment
+
+.env
+*.egg-info/
+
+
+#IDE
+
+.vscode/
+.vscode/settings.json
+.idea/
+#OS
+
+.DS_Store
+Thumbs.db
+
+
+# Logs
+*.log
+logs/
+runs/
+
+# Jupyter
+.ipynb_checkpoints/
